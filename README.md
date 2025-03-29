@@ -7,5 +7,14 @@ This project aims to provide an innovative, scalable, and sustainable solution t
 
 ## 🚀 Features
 Real-Time Hospital Workflow Optimization – Reduces waiting times and optimizes patient flow.
-- ✔️ Health Awareness & Preventive Care – Educating users on healthcare resources.
-- ✔️ Responsive & Accessible UI – Optimized for mobile and web.
+- Health Awareness & Preventive Care – Educating users on healthcare resources.
+- Responsive & Accessible UI – Optimized for mobile and web.
+- Health Consultations – AI-driven health guidance and doctor recommendations.
+- BMI Calculator – Helps users track their Body Mass Index and maintain a healthy lifestyle.
+- Accessibility & Scalability – Designed to be user-friendly and adaptable for large-scale implementation.
+
+## 🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Hosting: Pantheon
